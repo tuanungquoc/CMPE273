@@ -1,0 +1,3 @@
+- Make sure create DB with the following tables:
+  + tbl_user contains 3 columns: userId (number), username (string) , password (string)
+  + tbl_students contains 4 columns: studentId (number), full_name (string), department (string), isDeleted(boolean)
